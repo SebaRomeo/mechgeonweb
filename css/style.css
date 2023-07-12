@@ -105,8 +105,7 @@ b {
     transition: background-color .17s ease, color .17s ease;
 }
 
-.content .card button:hover 
-    button[disabled]{
+.content .card button:hover button[disabled] {
     background-color: red;
 }
 
@@ -170,6 +169,11 @@ b {
     color: rgb(71, 82, 196);
     ;
     text-decoration: none;
+}
+
+.imageGit {
+    width: 50% !important;
+    height: 50% !important;
 }
 
 #middle-link {
